@@ -1,0 +1,15 @@
+# Core downloader
+requests>=2.31.0
+markdownify>=0.12.1
+
+# Markdown cleaner (stdlib only — no extra deps)
+
+# Vault builder (stdlib only — no extra deps)
+
+# Video transcription
+youtube-transcript-api>=1.2.0
+anthropic>=0.40.0
+
+# Slide conversion
+pymupdf4llm>=0.0.17
+anthropic>=0.40.0
